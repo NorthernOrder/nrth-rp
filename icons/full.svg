@@ -1,0 +1,31 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_901_163)">
+<rect width="256" height="256" fill="#373534"/>
+<circle cx="128" cy="128" r="64" fill="#373534"/>
+<circle cx="128.032" cy="128.036" r="49.7695" stroke="#97D0EF" stroke-width="7"/>
+<path d="M128 128L128 110.898L192.744 63.2562L128 128Z" fill="#9B51DA"/>
+<path d="M145.102 128L192.744 63.2562L128 128L145.102 128Z" fill="#2D2825"/>
+<path d="M128 128L145.102 128L192.744 192.744L128 128Z" fill="#9B51DA"/>
+<path d="M128 145.102L192.744 192.744L128 128L128 145.102Z" fill="#2D2825"/>
+<path d="M128 128L110.898 128L63.256 63.2563L128 128Z" fill="#9B51DA"/>
+<path d="M128 110.898L63.256 63.2563L128 128L128 110.898Z" fill="#2D2825"/>
+<path d="M128 128L128 145.102L63.2561 192.744L128 128Z" fill="#9B51DA"/>
+<path d="M110.898 128L63.256 192.744L128 128L110.898 128Z" fill="#2D2825"/>
+<path d="M128 128L144.64 144.64L128 256L128 128Z" fill="#9B51DA"/>
+<path d="M111.36 144.64L128 256L128 128L111.36 144.64Z" fill="#2D2825"/>
+<path d="M128 128L111.36 111.36L128 -2.09808e-05L128 128Z" fill="#9B51DA"/>
+<path d="M144.64 111.36L128 -1.30757e-05L128 128L144.64 111.36Z" fill="#2D2825"/>
+<path d="M128 128L111.36 144.64L-3.05176e-05 128L128 128Z" fill="#9B51DA"/>
+<path d="M111.36 111.36L2.18313e-06 128L128 128L111.36 111.36Z" fill="#2D2825"/>
+<path d="M128 128L144.64 111.36L256 128L128 128Z" fill="#9B51DA"/>
+<path d="M144.64 144.64L256 128L128 128L144.64 144.64Z" fill="#2D2825"/>
+<circle cx="128" cy="128" r="32" fill="#9C70E5"/>
+<circle cx="128" cy="128" r="21" stroke="#95AAE2" stroke-width="6"/>
+<circle cx="128" cy="128" r="7.5" stroke="#99CFEF" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0_901_163">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
+</svg>
